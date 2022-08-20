@@ -37,7 +37,7 @@ Your character will frequently die, sometimes without even a possibility of avoi
 11. Bigotry is not allowed.
 Intentionally seeking to demean others due to their actual or perceived race, sex, gender, disability, orientation or the like is not tolerated. It is not our goal to create or enforce a list of banned words and instead our goal to eject the expression of bigotry from the community. Enforcement will be less PC based and more common sense based with that goal in mind.
 
-This means rather than warning or banning for quoting a usage such as "Griff McNazi got banned for calling somebody a faggot" or even things like "nigga pls" and "what are you faggots playing" which are generally not statements made to be bigoted, we'll focus more on statements like "you talk like a [insert stereotype]" or "x is a [insert slur]".
+This means rather than warning or banning for quoting a usage such as "Griff McNazi got banned for calling somebody a faggot" or even things like "nigga pls" and "what are you faggots playing" which are generally not statements made to be bigoted, we'll focus more on statements like "you talk like a \[insert stereotype]" or "x is a \[insert slur]".
 
 12. This is a sandbox roleplaying game
 The purpose of the game is to have fun roleplaying. Play-to-win gameplay that ruins the purpose of the game at the expense of others is against the rules.
