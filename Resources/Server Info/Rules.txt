@@ -1,46 +1,42 @@
 0. Enforcement of these rules is at the discretion of admins.
 Admins are fully accountable for any consequences should they invoke this rule. Admins are also allowed to intervene in rounds when it is in the best interest of the playerbase.
 
-1. Don't be a dick
-We're all here to have a good time, supposedly. Going out of your way to seriously negatively impact or end the round for someone with little IC justification is against the rules, this also includes harassing a player OOC (Out of character). Legitimate conflicts where people get upset do happen however, as detailed in the escalation section of the rules.
+[color=#a4885c]1.[/color] Don't be a dick.
+    - We're all here to have a good time, supposedly. Going out of your way to seriously negatively impact or end the round for someone with little IC justification is against the rules, this also includes harassing a player OOC (Out of character). Legitimate conflicts where people get upset do happen however, as detailed in the escalation section of the rules.
 
-2. Do not use information gained outside of in-character means.
-I.e. metagaming. This especially refers to communication between players outside of the game via things like Discord, known as metacomms. Characters are otherwise allowed to know everything about ingame mechanics or antagonists, as well as keep persistent friendships or relationships with other characters when not for the purpose of unfair advantage by teaming up together for little IC reason.
+[color=#a4885c]2.[/color] Do not use information gained outside of in-character means.
+    - I.e. metagaming. This especially refers to communication between players outside of the game via things like Discord, known as metacomms. Characters are otherwise allowed to know everything about ingame mechanics or antagonists, as well as keep persistent friendships or relationships with other characters when not for the purpose of unfair advantage by teaming up together for little IC reason.
 
-3. Do not say in character (IC) things in the out of character (OOC) chat channel.
-Do not say OOC things in IC either. There is an exception for OOC in IC where terms like 'clickdrag X to Y, or look for the tab' is used to help a player.
+[color=#a4885c]3.[/color] Do not say in character (IC) things in the out of character (OOC) chat channel.
+    - Do not say OOC things in IC either. There is an exception for OOC in IC where terms like 'clickdrag X to Y, or look for the tab' is used to help a player.
 
-4. Lone antagonists can do whatever they want.
-Except metagaming/comms, bug/exploit abuse, erotic/creepy stuff, OOC in IC or IC in OOC, and spawn-camping arrivals. Team antagonists can do whatever they want as per lone antagonists, as long as it doesn’t harm their team. Non-antagonists can do whatever they want to antagonists as per lone antagonists, but non-antagonists are not allowed to pre-emptively search for, hinder or otherwise seek conflict with antagonists without reasonable prior cause. Non-antags acting like an antag can be treated as an antag.
+[color=#a4885c]4.[/color] Lone antagonists can do whatever they want.
+    - Except metagaming/comms, bug/exploit abuse, erotic/creepy stuff, OOC in IC or IC in OOC, and spawn-camping arrivals. Team antagonists can do whatever they want as per lone antagonists, as long as it doesn’t harm their team. Non-antagonists can do whatever they want to antagonists as per lone antagonists, but non-antagonists are not allowed to pre-emptively search for, hinder or otherwise seek conflict with antagonists without reasonable prior cause. Non-antags acting like an antag can be treated as an antag.
 
-5. Players in a head of staff or a team conversion role require a minimum amount of effort; generally considered to be not logging out at or near roundstart.
-Notify admins if you cannot play these roles and must leave near round start and make an attempt to inform other players IC as well for head of staff or AI roles. Abuse of a job position, particularly Rule 1 breaking abuse, is not allowed.
+[color=#a4885c]5.[/color] Players in a head of staff or a team conversion role require a minimum amount of effort; generally considered to be not logging out at or near roundstart.
+    - Notify admins if you cannot play these roles and must leave near round start and make an attempt to inform other players IC as well for head of staff or AI roles. Abuse of a job position, particularly Rule 1 breaking abuse, is not allowed.
 
-6. In-game administration rulings are final.
-Incidences of admin abuse, negligence or disputed rulings can be taken to the forums. If an admin says something was 'looked into, handled, resolved' etc, regarding an issue, it is unlikely an admin will provide any further information. Admins are under no obligation to reveal IC information. Deliberately lying or misrepresenting facts in adminhelps will be dealt with harshly.
+[color=#a4885c]6.[/color] In-game administration rulings are final.
+    - Incidences of admin abuse, negligence or disputed rulings can be taken to the discord. If an admin says something was 'looked into, handled, resolved' etc, regarding an issue, it is unlikely an admin will provide any further information. Admins are under no obligation to reveal IC information. Deliberately lying or misrepresenting facts in adminhelps will be dealt with harshly.
 
-7. If you regularly come close to breaking the rules without actually breaking them, it will be treated as the rules being broken.
-Repeated instances of the same rules being broken may be met with harsher consequences. Baiting people into situations where you can report them to admins will be dealt with harshly.
+[color=#a4885c]7.[/color] If you regularly come close to breaking the rules without actually breaking them, it will be treated as the rules being broken.
+    - Repeated instances of the same rules being broken may be met with harsher consequences. Baiting people into situations where you can report them to admins will be dealt with harshly.
 
+[color=#a4885c]8.[/color] Erotic/creepy stuff is not allowed.
+    - [color=#ff0000]No form of erotic roleplay is allowed on the servers,[/color] including things that could be construed as sexual by unwilling participants.
 
-8. Erotic/creepy stuff is not allowed.
-No form of erotic roleplay is allowed on the servers, including things that could be construed as sexual by unwilling participants.
+[color=#a4885c]9.[/color] Players need to be the age of 18 or above.
+    - This rule is for the benefit of and is meant to protect people who shouldn't be playing here due to the nature of the SS14 community. Your age won't be hunted down, but if you admit it to us in admin PMs, or other places within the community, you're getting banned.
 
+[color=#a4885c]10.[/color] Losing is part of the game.
+    - Your character will frequently die, sometimes without even a possibility of avoiding it. Events will often be out of your control. No matter how good or prepared you are, sometimes you just lose.
 
-9. Players need to be the age of 18 or above.
-This rule is for the benefit of and is meant to protect people who shouldn't be playing here due to the nature of the SS14 community. Your age won't be hunted down, but if you admit it to us in admin PMs, or other places within the community, you're getting banned.
+[color=#a4885c]11.[/color] Bigotry is not allowed.
+    - Intentionally seeking to demean others due to their actual or perceived race, sex, gender, disability, orientation or the like is not tolerated. It is not our goal to create or enforce a list of banned words and instead our goal to eject the expression of bigotry from the community. Enforcement will be less PC based and more common sense based with that goal in mind.
+    - This means rather than warning or banning for quoting a usage such as "Griff McNazi got banned for calling somebody a faggot" or even things like "nigga pls" and "what are you faggots playing" which are generally not statements made to be bigoted, we'll focus more on statements like "you talk like a \[insert stereotype]" or "x is a \[insert slur]".
 
-
-10. Losing is part of the game.
-Your character will frequently die, sometimes without even a possibility of avoiding it. Events will often be out of your control. No matter how good or prepared you are, sometimes you just lose.
-
-11. Bigotry is not allowed.
-Intentionally seeking to demean others due to their actual or perceived race, sex, gender, disability, orientation or the like is not tolerated. It is not our goal to create or enforce a list of banned words and instead our goal to eject the expression of bigotry from the community. Enforcement will be less PC based and more common sense based with that goal in mind.
-
-This means rather than warning or banning for quoting a usage such as "Griff McNazi got banned for calling somebody a faggot" or even things like "nigga pls" and "what are you faggots playing" which are generally not statements made to be bigoted, we'll focus more on statements like "you talk like a \[insert stereotype]" or "x is a \[insert slur]".
-
-12. This is a sandbox roleplaying game
-The purpose of the game is to have fun roleplaying. Play-to-win gameplay that ruins the purpose of the game at the expense of others is against the rules.
+[color=#a4885c]12.[/color] This is a sandbox roleplaying game.
+    - The purpose of the game is to have fun roleplaying. Play-to-win gameplay that ruins the purpose of the game at the expense of others is against the rules.
 
 
 Escalation Policy
@@ -59,5 +55,4 @@ Non-antagonists should not harmfully resist or retaliate against valid arrests, 
 If an arrest is not obviously valid, it follows standard escalation. Resisting or retaliating against arrests without good reason may break Escalation Policy and be handled administratively. Non-antagonist players may lose any OOC and IC protections if they choose this path and should consider ahelping if they believe they did nothing to warrant being arrested.
 
 In resisting arrest, non-antagonists should not loot officers and should not detain or incapacitate officers any longer than is necessary to escape or explain themselves.
-
 
