@@ -1,0 +1,34 @@
+- type: entity
+  parent: BasePlushie
+  id: PlushieRain
+  name: rain plushie
+  description: "An adorable stuffed toy resembling a heroic and unhinged engineer, saving countless lives from a singularity."
+  components:
+  - type: Sprite
+    sprite: _rden/Objects/Fun/toys.rsi
+    state: rain
+
+- type: entity
+  parent: BasePlushie
+  id: PlushieRouter
+  name: router plushie
+  description: "A stuffed toy that resembles a distribution machine. Complete with 4 zip-up holes and randomizing bluespace voids!"
+  components:
+  - type: Sprite
+    sprite: _rden/Objects/Fun/toys.rsi
+    state: router
+  - type: EmitSoundOnUse
+    sound:
+      collection: RouterSqueak
+  - type: EmitSoundOnLand
+    sound:
+      collection: RouterSqueak
+  - type: EmitSoundOnActivate
+    sound:
+      collection: RouterSqueak
+  - type: MeleeWeapon
+    hitSound:
+      collection: RouterSqueak
+    damage:
+      types:
+        Blunt: 0

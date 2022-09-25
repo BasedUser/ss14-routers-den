@@ -26,7 +26,10 @@
         amount: 1
       - id: PlushieRatvar
         amount: 1
-
+      - id: PlushieRain
+        amount: 1
+      - id: PlushieRouter
+        amount: 1
 - type: entity
   id: CrateFunInstruments
   parent: CrateGenericSteel

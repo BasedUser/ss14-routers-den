@@ -1,0 +1,17 @@
+{
+    "version": 1,
+    "license": "CC-BY-SA-3.0",
+    "copyright": "\"rain\" taken from frigid14/frigid at commit cf88bb194c663b455facba5d61b03e8b4442cafe.",
+    "size": {
+        "x": 32,
+        "y": 32
+    },
+    "states": [
+        {
+            "name": "rain"
+        },
+        {
+            "name": "router"
+        }
+    ]
+}

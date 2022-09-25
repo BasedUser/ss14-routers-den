@@ -2,7 +2,7 @@
   parent: BaseItem
   id: Error
   name: error
-  description: Hmmmm. Something went wrong.
+  description: "Hmmmm. Something's creating script errors..."
   components:
   - type: Sprite
     sprite: error.rsi
